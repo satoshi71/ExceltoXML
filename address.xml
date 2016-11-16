@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<list>
+  <address id="1">
+    <ZIP>600000</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>以下に掲載がない場合</TOWN>
+  </address>
+  <address id="2">
+    <ZIP>640941</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>旭ケ丘</TOWN>
+  </address>
+  <address id="3">
+    <ZIP>600041</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>大通東</TOWN>
+  </address>
+  <address id="4">
+    <ZIP>600042</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>大通西（１～１９丁目）</TOWN>
+  </address>
+  <address id="5">
+    <ZIP>640820</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>大通西（２０～２８丁目）</TOWN>
+  </address>
+  <address id="6">
+    <ZIP>600031</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>北一条東</TOWN>
+  </address>
+  <address id="7">
+    <ZIP>600001</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>北一条西（１～１９丁目）</TOWN>
+  </address>
+  <address id="8">
+    <ZIP>640821</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>北一条西（２０～２８丁目）</TOWN>
+  </address>
+  <address id="9">
+    <ZIP>600032</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>北二条東</TOWN>
+  </address>
+  <address id="10">
+    <ZIP>600002</ZIP>
+    <PREF>北海道</PREF>
+    <CITY>札幌市中央区</CITY>
+    <TOWN>北二条西（１～１９丁目）</TOWN>
+  </address>
+</list>
+
